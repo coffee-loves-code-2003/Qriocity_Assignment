@@ -16,10 +16,10 @@ app.use('/apicalls/qriocity',initiatives);
 
 if(process.env.NODE_ENVIRONMENT==="production")
     {
-        app.use(express.static(path.join(__dirname,'../frontend/qriocity_env/build')));
+        app.use(express.static(path.join(__dirname,'../frontend/build')));
         app.get('*',(req,res)=>
         {
-            res.sendFile(path.resolve(__dirname,'../qriocity_env/build/index.html'))
+            res.sendFile(path.resolve(__dirname,'../build/index.html'))
         })
     }
 
