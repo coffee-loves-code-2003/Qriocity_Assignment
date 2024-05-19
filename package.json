@@ -1,0 +1,40 @@
+{
+  "name": "qriocity-assignment",
+  "version": "1.0.0",
+  "description": "qriocity-assignment",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon ./backend/server.js",
+    "dev": "set NODE_ENVIRONMENT=development&&nodemon ./backend/server.js",
+    "prod": "set NODE_ENVIRONMENT=production&&nodemon ./backend/server.js",
+    "seeder": "set NODE_ENVIRONMENT=development&&node ./backend/utils/seeder.js"
+  },
+  "author": "Vignesh",
+  "license": "ISC",
+  "dependencies": {
+    "@headlessui/react": "^2.0.3",
+    "@heroicons/react": "^2.1.3",
+    "@reduxjs/toolkit": "^2.2.5",
+    "axios": "^1.6.8",
+    "bcrypt": "^5.1.1",
+    "cookie-parser": "^1.4.6",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "install": "^0.13.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.4.0",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^3.1.0",
+    "react-animated-css-onscroll": "^1.2.1",
+    "react-axios": "^2.0.6",
+    "react-icons": "^5.2.1",
+    "react-quill": "^2.0.0",
+    "react-router-dom": "^6.23.1",
+    "react-toastify": "^10.0.5",
+    "redux": "^5.0.1",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-thunk": "^3.1.0",
+    "validator": "^13.12.0"
+  }
+}

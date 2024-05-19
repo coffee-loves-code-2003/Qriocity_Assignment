@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Dynamic Programming",
+        "description": "Memoization of Dynamic Programming",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "new.jpg"
+            }
+        ],
+        "category": "Machine Learning",
+        "author": "Vignesh",
+        "numOfReviews": 10,
+        "reviews": []
+    },
+    {
+        "name": "Neural Networks",
+        "description": "Introduction to Neural Networks",
+        "ratings": 4.2,
+        "images": [
+            {
+                "image": "neural.jpg"
+            }
+        ],
+        "category": "Machine Learning",
+        "author": "John Doe",
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "Graph Algorithms",
+        "description": "Fundamentals of Graph Algorithms",
+        "ratings": 4.8,
+        "images": [
+            {
+                "image": "graph.jpg"
+            }
+        ],
+        "category": "Linked Lists",
+        "author": "Alice",
+        "numOfReviews": 8,
+        "reviews": []
+    },
+    {
+        "name": "TCP/IP Networking",
+        "description": "Understanding TCP/IP Protocols",
+        "ratings": 4.6,
+        "images": [
+            {
+                "image": "tcpip.jpg"
+            }
+        ],
+        "category": "TCP/IP",
+        "author": "Bob",
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "Operating System Basics",
+        "description": "Introduction to Operating Systems",
+        "ratings": 4.7,
+        "images": [
+            {
+                "image": "os.jpg"
+            }
+        ],
+        "category": "Device Management",
+        "author": "Emily",
+        "numOfReviews": 7,
+        "reviews": []
+    },
+    {
+        "name": "K-Means Clustering",
+        "description": "An Introduction to K-Means Clustering",
+        "ratings": 4.4,
+        "images": [
+            {
+                "image": "kmeans.jpg"
+            }
+        ],
+        "category": "Machine Learning",
+        "author": "Michael",
+        "numOfReviews": 9,
+        "reviews": []
+    }
+]
