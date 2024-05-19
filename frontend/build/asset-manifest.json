@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0da29278.css",
+    "main.js": "/static/js/main.41b1376c.js",
+    "static/media/ml.jpg": "/static/media/ml.9db284781258fbe8ac3c.jpg",
+    "static/media/cn.jpg": "/static/media/cn.1fca2ff7e72812d8e5ee.jpg",
+    "static/media/dsa.jpg": "/static/media/dsa.d5a3df9dee998860075b.jpg",
+    "static/media/os.jpg": "/static/media/os.1a43917717e80825a5a2.jpg",
+    "static/media/sys.jpg": "/static/media/sys.9338542a492aab3e713f.jpg",
+    "static/media/dbms.jpg": "/static/media/dbms.184f9ec450cf1a2683fe.jpg",
+    "static/media/AlgorithmSimplfied.png": "/static/media/AlgorithmSimplfied.0337882a4d9bb0fe92f8.png",
+    "static/media/hero-back-illustration.svg": "/static/media/hero-back-illustration.834cefe321de1980055f.svg",
+    "static/media/pricing-illustration.svg": "/static/media/pricing-illustration.9ed4fdab0f6fe95d6caa.svg",
+    "static/media/hero-top-illustration.svg": "/static/media/hero-top-illustration.9525298f790dc545c81d.svg",
+    "static/media/logo_algo.svg": "/static/media/logo_algo.35764d500623aae94275ce08ce76d56c.svg",
+    "index.html": "/index.html",
+    "static/media/cta-illustration.svg": "/static/media/cta-illustration.83b5fac93738d6524053.svg",
+    "main.0da29278.css.map": "/static/css/main.0da29278.css.map",
+    "main.41b1376c.js.map": "/static/js/main.41b1376c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0da29278.css",
+    "static/js/main.41b1376c.js"
+  ]
+}
